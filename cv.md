@@ -1,5 +1,8 @@
 # rsschool-cv
 
+<img width="200" height="200" alt="developer-modified" src="https://github.com/user-attachments/assets/606ac4ac-9690-4570-899f-660da6421bbc" />
+
+
 # Fatih Eker
 
 ### 📌 Contact
