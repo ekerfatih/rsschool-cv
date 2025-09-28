@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ekerfatih.github.io/rsschool-cv/
