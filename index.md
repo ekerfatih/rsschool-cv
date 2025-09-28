@@ -3,42 +3,43 @@
 # Fatih Eker
 
 ### Contact
-
+<div style="display: flex; flex-direction: column; justify-items:center; ">
 <p align="left">
   <a href="https://discord.com/users/philophobic_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="30" /> philophobic_
+    <img src="https://skillicons.dev/icons?i=discord" width="20" /> philophobic_
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fatiheker97/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" /> fatiheker97
+    <img src="https://skillicons.dev/icons?i=linkedin" width="20" /> fatiheker97
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/ekerfatih" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="30" /> ekerfatih
+    <img src="https://skillicons.dev/icons?i=github" width="20" /> ekerfatih
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.ekerfatih.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="30"/> ekerfatih.com
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="20"/> ekerfatih.com
   </a>
 </p>
 
 <p align="left">
   <a href="https://t.me/PhiIophobic" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="30" /> @PhiIophobic
+    <img src="https://skillicons.dev/icons?i=telegram" width="20" /> @PhiIophobic
   </a>
 </p>
 
 <p align="left">
   <a href="mailto:fatiheker97@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" /> fatiheker97@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail" width="20" /> fatiheker97@gmail.com
   </a>
 </p>
+</div>
 
 ### Self Introduction
 I am Fatih Eker, a Full-Stack Developer with hands-on experience in **Java (Spring Boot)** and **JavaScript (React, Next.js)**.  
