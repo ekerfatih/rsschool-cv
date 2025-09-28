@@ -2,46 +2,17 @@
 
 # Fatih Eker
 
-### Contact
-<div style="display: flex; flex-direction: column; justify-items:center; ">
-<p align="left">
-  <a href="https://discord.com/users/philophobic_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="20" /> philophobic_
-  </a>
-</p>
+### 📌 Contact
+- **Discord:** philophobic_  
+- **LinkedIn:** [fatiheker97](https://www.linkedin.com/in/fatiheker97/)  
+- **GitHub:** [ekerfatih](https://github.com/ekerfatih)  
+- **Personal Website:** [ekerfatih.com](https://www.ekerfatih.com/)  
+- **Telegram:** @PhiIophobic  
+- **Email:** fatiheker97@gmail.com  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fatiheker97/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="20" /> fatiheker97
-  </a>
-</p>
+---
 
-<p align="left">
-  <a href="https://github.com/ekerfatih" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="20" /> ekerfatih
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.ekerfatih.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="20"/> ekerfatih.com
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://t.me/PhiIophobic" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="20" /> @PhiIophobic
-  </a>
-</p>
-
-<p align="left">
-  <a href="mailto:fatiheker97@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="20" /> fatiheker97@gmail.com
-  </a>
-</p>
-</div>
-
-### Self Introduction
+### 🙋 Self Introduction
 I am Fatih Eker, a Full-Stack Developer with hands-on experience in **Java (Spring Boot)** and **JavaScript (React, Next.js)**.  
 My goal is to build scalable, user-friendly digital products and continue improving my skills in both backend and frontend development.  
 
@@ -50,17 +21,21 @@ My strengths are problem-solving, fast learning, and the ability to take a proje
 
 I am eager to expand my knowledge in **cloud platforms, DevOps practices, and advanced UI/UX design**, while contributing to impactful projects and working in collaborative environments.  
 
+---
 
- ### Skills
+### 🛠 Skills
 - **Programming Languages:** Java, JavaScript, TypeScript, C# 
 - **Frameworks & Libraries:** Spring Boot, React, Next.js, Redux, Tailwind CSS, .Net Core 
 - **Databases:** PostgreSQL, MySQL  
 - **DevOps & Tools:** Docker, Docker Compose, Railway, Render, Oracle Cloud (OCI)  
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub  
 
-### Code Example
+---
+
+### 💡 Code Example
 [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/train/javascript)
-```
+
+```javascript
 function solution(number){
   if(number < 0) return 0;
   let total = 0;
@@ -74,21 +49,29 @@ function solution(number){
 }
 ```
 
-## Work Experience
+---
+
+### 💼 Work Experience
 **Educational & Personal Projects:**  
-- **Twitter Clone** – Full-Stack app with authentication, tweets, likes, retweets, and comments  [Deploy](https://s19-javachallange-twitter-clone-nex.vercel.app/login?next=%2F) / [Frontend-Github](https://github.com/ekerfatih/Twitter-Clone-App-Frontend) / [Backend-Github](https://github.com/ekerfatih/Twitter-Clone-App-Backend)
-- **E-Commerce App** – Product catalog, shopping cart, checkout flow, responsive UI  [Deploy](https://vercel.com/fatihs-projects-ee4609f8/e-commerce) / [Github](https://github.com/ekerfatih/e-commerce)
-- **Pizza App** – Frontend project with dynamic menu, customizable orders, and responsive design  [Deploy](https://sprint-8-pizza-projesi.vercel.app/) / [Github](https://github.com/ekerfatih/Sprint-8-Pizza-Projesi)
-- **CV Project** – Personal portfolio CV built with modern layout and responsive design  [Deploy](https://personal-website-nu-sandy.vercel.app/) / [Github](https://github.com/ekerfatih/FSWeb-Frontend-Challenge)
+- **Twitter Clone** – Full-Stack app with authentication, tweets, likes, retweets, and comments  
+  [Deploy](https://s19-javachallange-twitter-clone-nex.vercel.app/login?next=%2F) / [Frontend-Github](https://github.com/ekerfatih/Twitter-Clone-App-Frontend) / [Backend-Github](https://github.com/ekerfatih/Twitter-Clone-App-Backend)  
+- **E-Commerce App** – Product catalog, shopping cart, checkout flow, responsive UI  
+  [Deploy](https://vercel.com/fatihs-projects-ee4609f8/e-commerce) / [Github](https://github.com/ekerfatih/e-commerce)  
+- **Pizza App** – Frontend project with dynamic menu, customizable orders, and responsive design  
+  [Deploy](https://sprint-8-pizza-projesi.vercel.app/) / [Github](https://github.com/ekerfatih/Sprint-8-Pizza-Projesi)  
+- **CV Project** – Personal portfolio CV built with modern layout and responsive design  
+  [Deploy](https://personal-website-nu-sandy.vercel.app/) / [Github](https://github.com/ekerfatih/FSWeb-Frontend-Challenge)  
 
+---
 
-
-### Education
+### 🎓 Education
 - **Workintech Bootcamp** – Full-Stack Development (Java + React)  
 - Online courses on **Docker, DevOps, and PostgreSQL**  
-- Continuous self-learning through documentation and real-world projects
+- Continuous self-learning through documentation and real-world projects  
 
-### English Language
+---
+
+### 🌍 English Language
 - Proficiency: **Upper-Intermediate (B2)**  
 - Practiced through **technical documentation, coding communities, and professional communication**.  
-- Able to write documentation, communicate with teams, and present projects in English.
+- Able to write documentation, communicate with teams, and present projects in English.  
